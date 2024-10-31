@@ -1,4 +1,6 @@
-
+body {
+  background-color: #0C1020;
+}
 p {
-  color: red;
+  color: white;
 }
